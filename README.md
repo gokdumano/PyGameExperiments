@@ -1,4 +1,4 @@
-# PyGameExperiments
+## PyGameExperiments
  some serious some lazy games, all done to get better at coding
 
 ### Space Invaders (But there are so many lasers!)
