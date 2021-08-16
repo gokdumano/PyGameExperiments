@@ -1,5 +1,5 @@
 # PyGameExperiments
- some serious some lazy games, all done to be better at coding
+ some serious some lazy games, all done to get better at coding
 
 ### Space Invaders (But there are so many lasers!)
 <img src="SpaceInvaders\spaceinvaders.gif" alt="this slowpoke moves"  width="250" />
