@@ -9,3 +9,6 @@
 
 ### Piano (But you can play every other instruments!)
 <img src="Piano\piano.gif" alt="this slowpoke moves"  width="250" />
+
+### Game of Life (But we are doomed to consume everything!)
+<img src="GameOfLife\gameoflife.gif" alt="this slowpoke moves"  width="250" />
