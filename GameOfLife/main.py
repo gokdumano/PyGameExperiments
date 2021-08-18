@@ -24,9 +24,6 @@ class Cell(pygame.sprite.Sprite):
         self.image     = pygame.Surface([CellSize, CellSize])
         self.rect      = self.image.get_rect(**pos)
         
-    def __str__(self):
-        return '+' if self.isAlive else ' '
-        
     def numAlive(self, grid):
         dirs = {'N':(0,-1),'NE':(1,-1),'E':(1,0),'SE':(1,1),'S':(0,1),'SW':(-1,1),'W':(-1,0),'NW':(-1,-1)}
         num  = 0
