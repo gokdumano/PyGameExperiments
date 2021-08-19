@@ -12,3 +12,6 @@
 
 ### Game of Life (But we are doomed to consume everything!)
 <img src="GameOfLife\gameoflife.gif" alt="this slowpoke moves"  width="250" />
+
+### Planets (But we are really small compared to all the giants!)
+<img src="Planets\planets.gif" alt="this slowpoke moves"  width="250" />
