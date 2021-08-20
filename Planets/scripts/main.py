@@ -43,7 +43,7 @@ class Body(pygame.sprite.Sprite):
     def __str__(self):
         return self.__repr__()
     
-    def acc_on(self, xm=None, ym=None, bodym=None):
+    def acc_on(self, xm=None, ym=None):
         # Acceleration contributed by one mass M of a Body
         # on another Body of mass m at location (x, y)
         # dx   = XM - Xm
